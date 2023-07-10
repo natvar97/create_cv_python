@@ -1,4 +1,4 @@
 Create CV Programatically with Python
 
 first run command
-'python install -r requirements.txt'
+'pip3 install -r requirements.txt'
